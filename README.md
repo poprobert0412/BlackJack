@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for your GitHub repository:
-
----
-
 # Blackjack Game
 
 This is a simple implementation of a Blackjack game in Python.
